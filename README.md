@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas Alves
 
-<div align="center">
+<div align="center" style="width:100%">
   <a href="https://github.com/ddougallves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddougallves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddougallves&layout=compact&langs_count=7&theme=github_dark"/>
